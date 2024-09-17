@@ -6,3 +6,5 @@ Muito bom e com organização intuitiva pra quem já possui conhecimento de infr
 - Segundo laboratorio foi realizada demostração de criação de maquinas virtuais e todos os cuidados inclusive relacionados a custos de itens como disco
 
 - Terceiro laboratorio foi demostrada a criação de banco de dados em um modelo PaaS
+
+- Quarto Laboratorio Relacionada a contrução de Arquitetura na Azure foi demostrada a criação de grupos de recursos e também vnet, niveis de acesso e como fazer um sindicancia saber quem criou que objeto, falado sobre gerenciamento de custos 
