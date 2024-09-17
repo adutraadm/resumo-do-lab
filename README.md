@@ -3,4 +3,6 @@
 
 Muito bom e com organização intuitiva pra quem já possui conhecimento de infra
 
-- Segundo laboratorio foi realizada demostração de criação de maquinas virtuais e todos os cuidados inclusive relacionados a custos de itens como disco 
+- Segundo laboratorio foi realizada demostração de criação de maquinas virtuais e todos os cuidados inclusive relacionados a custos de itens como disco
+
+- Terceiro laboratorio foi demostrada a criação de banco de dados em um modelo PaaS
