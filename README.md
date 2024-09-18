@@ -10,3 +10,5 @@ Muito bom e com organização intuitiva pra quem já possui conhecimento de infr
 - Quarto Laboratorio Relacionada a contrução de Arquitetura na Azure foi demostrada a criação de grupos de recursos e também vnet, niveis de acesso e como fazer um sindicancia saber quem criou que objeto, falado sobre gerenciamento de custos
 
 - Quinto Laboratorio relacionado a criação de maquinas virtuais, dimencionameno das maquinas todas as etapas e itens relacionados como backup, gerenciamento, desligamento automatico, também function e linguagens relacionadas 
+
+- Sexto Laboratorio relacionado a contas de aramazenamento e como manipular arquivos e dados migrar ambientes
