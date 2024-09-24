@@ -13,4 +13,6 @@ Muito bom e com organização intuitiva pra quem já possui conhecimento de infr
 
 - Sexto Laboratorio relacionado a contas de aramazenamento e como manipular arquivos e dados migrar ambientes
 
-- Setimo Laboratorio relacionado Entra ID o subistituito de AD criação de usuarios internos e envio de convites para usuarios externos, controle de acesso, relatorios de acesso, licenciamento 
+- Setimo Laboratorio relacionado Entra ID o subistituito de AD criação de usuarios internos e envio de convites para usuarios externos, controle de acesso, relatorios de acesso, licenciamento
+- Oitavo Laboratorio Utilizada a calculadora para medir o custo de migraçao para cloud e descrição de Tags entre outros assuntos relacionados a Finops  
+
