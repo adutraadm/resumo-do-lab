@@ -17,4 +17,5 @@ Muito bom e com organização intuitiva pra quem já possui conhecimento de infr
 - Oitavo Laboratorio Utilizada a calculadora para medir o custo de migraçao para cloud e descrição de Tags entre outros assuntos relacionados a Finops  
 
 - nono Laboratorio Questões de auditoria e segurança
-- Decimo Laboratorio Ferramentas de interação e implantação como CLi, e scripts de automação  
+- Decimo Laboratorio Ferramentas de interação e implantação como CLi, e scripts de automação
+- Decimo primeiro Laboratorio Ferramentas de de monitoração   
